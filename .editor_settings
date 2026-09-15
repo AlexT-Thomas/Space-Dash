@@ -1,0 +1,174 @@
+{
+  :code {
+    :breakpoints [
+    ]
+  }
+  :workflow {
+    :open-tabs [
+      [
+        [
+          "/main/email.collection"
+          :scene
+        ]
+        [
+          "/game.project"
+          :cljfx-form-view
+        ]
+        [
+          "/gui/checkpoint.gui"
+          :scene
+        ]
+        [
+          "/main/checkpoint.collection"
+          :scene
+        ]
+        [
+          "/Scripts/gui script/checkpoint.gui_script"
+          :code
+        ]
+        [
+          "/gui/email.gui"
+          :scene
+        ]
+        [
+          "/Scripts/gui script/email.gui_script"
+          :code
+        ]
+        [
+          "/Scripts/Scene parent.script"
+          :code
+        ]
+      ]
+    ]
+    :recent-files [
+      [
+        "/gui/create account.gui"
+        :scene
+      ]
+      [
+        "/gui/Difficulty.gui"
+        :scene
+      ]
+      [
+        "/main/create account.collection"
+        :scene
+      ]
+      [
+        "/Scripts/gui script/hud.gui_script"
+        :code
+      ]
+      [
+        "/Scripts/gui script/topic selector.gui_script"
+        :code
+      ]
+      [
+        "/Scripts/gui script/student dashboard.gui_script"
+        :code
+      ]
+      [
+        "/Scripts/gui script/Setting screen.gui_script"
+        :code
+      ]
+      [
+        "/Scripts/question_bank.lua"
+        :code
+      ]
+      [
+        "/main/main.collection"
+        :scene
+      ]
+      [
+        "/main/upgrade.collection"
+        :scene
+      ]
+      [
+        "/gui/upgrade ship.gui"
+        :scene
+      ]
+      [
+        "/Scripts/upgrade manager.lua"
+        :code
+      ]
+      [
+        "/Scripts/bullet.script"
+        :code
+      ]
+      [
+        "/Scripts/ship script.script"
+        :code
+      ]
+      [
+        "/gui/leaderboard.gui"
+        :scene
+      ]
+      [
+        "/Scripts/gui script/leaderboard.gui_script"
+        :code
+      ]
+      [
+        "/Scripts/credentials.lua"
+        :code
+      ]
+      [
+        "/main/leaderboard.collection"
+        :scene
+      ]
+      [
+        "/gui/teacher dashboard.gui"
+        :scene
+      ]
+      [
+        "/gui/LOGIN.gui"
+        :scene
+      ]
+      [
+        "/gui/hud.gui"
+        :scene
+      ]
+      [
+        "/gui/student stats.gui"
+        :scene
+      ]
+      [
+        "/main/teacher_dashboard.collection"
+        :scene
+      ]
+      [
+        "/Scripts/gui script/teacher_dashboard.gui_script"
+        :code
+      ]
+      [
+        "/main/email.collection"
+        :scene
+      ]
+      [
+        "/game.project"
+        :cljfx-form-view
+      ]
+      [
+        "/gui/checkpoint.gui"
+        :scene
+      ]
+      [
+        "/main/checkpoint.collection"
+        :scene
+      ]
+      [
+        "/Scripts/gui script/checkpoint.gui_script"
+        :code
+      ]
+      [
+        "/gui/email.gui"
+        :scene
+      ]
+      [
+        "/Scripts/gui script/email.gui_script"
+        :code
+      ]
+      [
+        "/Scripts/Scene parent.script"
+        :code
+      ]
+    ]
+  }
+}
